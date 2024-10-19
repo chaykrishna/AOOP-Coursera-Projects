@@ -1,2 +1,3 @@
 # Coursera-Projects-Portal
-Find solutions for wide range of courses like AI-ML, AOOP via Coursera
+Find solutions to Capestone projects and Ungraded Assignments of the course, Software Design and Architecture Specialization Course offered by University of Alberta.
+Check the readme file.
