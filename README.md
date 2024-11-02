@@ -1,5 +1,5 @@
 # Coursera-Project
-Find solutions to Capestone projects and Ungraded Assignments of the course, Software Design and Architecture Specialization Course offered by University of Alberta.
+Find solutions to Capestone projects and Ungraded Assignments of the course, Software Design and Architecture Specialization offered by University of Alberta.
 
 
 About this Specialization
